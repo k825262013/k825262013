@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KZ
+- 👋 Hi, I’m ZYK
 - 👀 I’m interested in Coding  , Coffee , Life
 - 👀 I have PHP(Laravel) , C#(.NET MVC) , Kotlin(Android) , Javascript(Vue , Jquery) , Typescript(Aws CDK)
 - 🌱 I’m currently learning be a man

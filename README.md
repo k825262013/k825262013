@@ -7,12 +7,13 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats-ten-roan-95.vercel.app/api/top-langs/?username=zyk0615&count_private=true&include_all_commits=true&show_icons=true&hide=html,css,scss,less,blade,hack,shell&layout=compact)](https://github.com/zyk0615/github-readme-stats)
+[![Top Langs]([https://github-readme-stats-ten-roan-95.vercel.app/api/top-langs/?username=zyk0615&count_private=true&include_all_commits=true&show_icons=true&hide=html,css,scss,less,blade,hack,shell&layout=compact](https://github-readme-stats-gcgsnhc1g-zyk0615.vercel.app/api/top-langs/?username=zyk0615&count_private=true&include_all_commits=true&show_icons=true&hide=html,css,scss,less,blade,hack,shell&layout=compact))](https://github.com/zyk0615/github-readme-stats)
 
 
 
 --------------------------------------------------------------------------------------------------------------
 
 
-![ZYK's GitHub stats](https://github-readme-stats-ten-roan-95.vercel.app/api?username=zyk0615&count_private=true&show_icons=true&theme=radical)
+![ZYK's GitHub stats](https://github-readme-stats-gcgsnhc1g-zyk0615.vercel.app/api?username=zyk0615&count_private=true&show_icons=true&theme=radical)
+
 
